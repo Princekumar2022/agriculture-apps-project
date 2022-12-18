@@ -1,0 +1,19 @@
+{
+  "name": "agriculture-apps-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Princekumar2022/agriculture-apps-project.git"
+  },
+  "author": "Prince Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Princekumar2022/agriculture-apps-project/issues"
+  },
+  "homepage": "https://github.com/Princekumar2022/agriculture-apps-project#readme"
+}
